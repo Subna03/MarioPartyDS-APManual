@@ -1,5 +1,7 @@
 # MarioPartyDS-APManual
 Manual implementation for Mario Party DS, for Archipelago Randomizer. Two goals to choose from: beat Bowser in Story Mode, or sweep all 5 boards in Party Mode.
+
+Discord chat (in manual server): https://discord.com/channels/1097532591650910289/1549208432161333408/1549208432161333408
 ---------------------------------------------------------------------------------------------------------
 Mario Party DS is an acclaimed 2007 party game for the Nintendo DS that follows Mario and his friends after Bowser shrinks them down to toy size. Up to four players compete on five themed boards to collect coins and stars, playing through over 70 minigames that utilize the console's touchscreen and microphone. It stands out for its single-player story mode and a local multiplayer option that lets four people play together using just a single game cartridge via Download Play.
 
